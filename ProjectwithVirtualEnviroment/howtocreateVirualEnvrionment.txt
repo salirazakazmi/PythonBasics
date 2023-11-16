@@ -1,0 +1,30 @@
+
+cd path\to\your\project\directory
+
+python -m venv myenv
+
+
+myenv\Scripts\activate
+
+
+deactivate
+
+
+Practical
+
+==========================
+
+D:\RND\PythonLearning\ProjectwithVirtualEnviroment
+
+
+D:\RND\PythonLearning>cd D:\RND\PythonLearning\ProjectwithVirtualEnviroment
+
+D:\RND\PythonLearning\ProjectwithVirtualEnviroment>python -m venv myenv
+
+D:\RND\PythonLearning\ProjectwithVirtualEnviroment>myenv\Scripts\activate
+
+(myenv) D:\RND\PythonLearning\ProjectwithVirtualEnviroment>
+
+
+(myenv) D:\RND\PythonLearning\ProjectwithVirtualEnviroment>deactivate
+D:\RND\PythonLearning\ProjectwithVirtualEnviroment>
